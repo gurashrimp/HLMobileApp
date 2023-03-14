@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708234360469",
+    "project_id": "fptl-4872d",
+    "storage_bucket": "fptl-4872d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708234360469:android:73f16b4ca965e620d7cd9c",
+        "android_client_info": {
+          "package_name": "com.laptopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708234360469-t7t6d6oej4fkaeiuua8f65al5r20a5tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd9zMQ3Xs-fzADRZPYqn2NJBkycmgCJMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708234360469-t7t6d6oej4fkaeiuua8f65al5r20a5tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
